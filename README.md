@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Uzoamaka Anigala
-- 👀 I’m interested in helping organisation make better decision with data
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in helping organisation make data-driven decisions and uncover opportuinities for growth
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on SQL and PowerBi Projects
 - 📫 How to reach me sophiendowed@outlook.com
-- 😄 Pronouns: She
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to travel
 
 <!---
